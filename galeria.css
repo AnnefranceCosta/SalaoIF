@@ -1,0 +1,124 @@
+*{
+	margin: 0px;
+	padding:0px;
+}*
+body{
+	background-color: #ffe6f9;
+}
+/*Inicio Menu*/
+.navbar-inverse/*-transparente*/{
+	padding: 15px 0px;
+	background: rgba(0,0,0,10);
+	border:none;
+	font-size: 20px;
+	background-color:#ffcccc;
+}
+.navbar-brad{
+	padding: 10px 30px;
+	font-size: 30px;
+	color: yellow;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #ff1a75;
+}
+.glyphicon.core{
+	font-size: 1.7em;
+	padding-bottom: 5px;
+	color:#ff1a75;
+}
+/*----------------------------------------------FIM MENU, COMEÇO CORPO*/
+
+#funbranco{
+	background-color: white;
+	height: 100%;
+}
+.segundo{
+	background-color: red;
+	height: 400px;
+}
+.imagens{
+	border-radius: 20px;
+	border: 10px solid #ffffb3;
+	margin-top: 50px;
+	height: 200px;
+	width: 300px;
+	margin-right: 30px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+}
+.topo{
+	border-radius: 20px;
+	border: 10px solid #ffffb3;
+	margin-top: 120px;
+	height: 250px;
+	width: 300px;
+	margin-right: 30px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+
+}
+.gallery_box img:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -o-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+
+/*-----------------------------------------------FiM CORPO, COMEĆ‡O RODAPĆ‰--------*/
+footer{
+ background-color:#ffcccc;
+ border-color:#ffcccc;
+ border-radius: 7px;
+ padding: 10px 0px 10px 0px;
+ position: static;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ color: white;
+ text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Verdana, Arial;
+	font-style: italic;
+	color: #ff1a75;
+}
+
+.cadastre{
+	font-family: Verdana, Arial;
+	font-size: 20px;
+	color: #80002a;
+}
+.botao{
+	color: black;
+}
+.botao:hover{
+	background: white;
+	color: black;
+}
+.insta{
+	width: 80px;
+	height: 80px;
+	margin-left: 30px;
+}
+.face{
+	width: 80px;
+	height: 80px;
+	margin-left: 30px;
+}
+.wpp{
+	width: 80px;
+	height: 80px;
+	margin-left: 30px;
+}
+#emailsenha{
+	color: #80002a;
+}

@@ -1,0 +1,174 @@
+*{
+	margin: 0px;
+	padding:0px;
+}*
+body{
+	background-image: linear-gradient(to top, #ffffcc 0%, #ffe6e6 100%);
+}
+/*Inicio Menu*/
+.navbar-inverse/*-transparente*/{
+	padding: 15px 0px;
+	background: rgba(0,0,0,10);
+	border:none;
+	font-size: 20px;
+	background-color:#ffcccc;
+}
+.navbar-brad{
+	padding: 10px 30px;
+	font-size: 30px;
+	color: yellow;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #ff1a75;
+}
+.glyphicon.core{
+	font-size: 1.7em;
+	padding-bottom:5px;
+	color:#ff1a75;
+}
+/*---------------------------------------------FIM MENU, COMEĆ‡O CORPO*/
+#pcentro{
+	text-align: center;
+	font-family: italic;
+	font-size: 50px;
+}
+.sobreserv{
+	height: 50px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 50px;
+	font-family: italic;
+	color: #ff1a75;
+}
+#sobrecabelo{
+	text-align: center;
+	font-family: italic;
+	font-size: 50px;
+}
+.cabelo{
+	text-align: center;
+}
+#funbranco{
+	background-color: white;
+	height: 100%;
+}
+.image{
+  max-width: 70%;
+  height: 500px;
+  display: block;
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.segundo{
+	height: 500px; 
+	background:transparent;
+	padding-top: 30px;
+}
+.terceiro{
+	height: 500px;
+	background:transparent;
+	padding-top: 30px;
+}
+.quinto{
+	background:transparent;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+
+.serv{
+	font-size: 55px;
+	font-family: italic;
+}
+
+#centro{
+	text-align: center;
+	font-style: italic;
+	font-family: Verdana, Arial;
+	font-size: 17px;
+}
+/*----------IMAGENS EDIÇÃO------------------*/
+.unhaprinc{
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30%;
+  border:10px solid #ffb3ff;
+}
+.cabeloprinc{
+  width: 40%;
+  height: 400px;
+  display: block;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30%;
+  border:10px solid #ffb3ff;
+}
+/*-----------------------------------------------FiM CORPO, COMEĆ‡O RODAPĆ‰--------*/
+footer{
+ background-color:#ffcccc;
+ border-color:#ffcccc;
+ border-radius: 7px;
+ padding: 10px 0px 10px 0px;
+ position: static;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ color: white;
+ text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Verdana, Arial;
+	font-style: italic;
+	color: #ff1a75;
+}
+
+.cadastre{
+	font-family: Verdana, Arial;
+	font-size: 20px;
+	color: #80002a;
+}
+.botao{
+	color: black;
+}
+.botao:hover{
+	background: white;
+	color: black;
+}
+.insta{
+	width: 60px;
+	height: 60px;
+	margin-left: 50px;
+}
+.face{
+	width: 60px;
+	height: 60px;
+	margin-left: 50px;
+}
+.wpp{
+	width: 60px;
+	height: 60px;
+	margin-left: 50px;
+}
+#emailsenha{
+	color: #80002a;
+}
+
+.contatos{
+	color: #ff1a75;
+	font-size:30px;
+	font-family: Verdana, Arial;
+	font-style: italic;
+}

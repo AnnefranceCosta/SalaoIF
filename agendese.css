@@ -1,0 +1,115 @@
+*{
+	margin: 0px;
+	padding:0px;
+}*
+body{
+	background-color: #ffe6f9;
+}
+/*Inicio Menu*/
+.navbar-inverse/*-transparente*/{
+	padding: 15px 0px;
+	background: rgba(0,0,0,10);
+	border:none;
+	font-size: 20px;
+	background-color:#ffcccc;
+}
+.navbar-brad{
+	padding: 10px 30px;
+	font-size: 30px;
+	color: yellow;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #ff1a75;
+}
+.glyphicon.core{
+	font-size: 1.7em;
+	padding-bottom: 5px;
+	color:#ff1a75;
+}
+/*----------------------------------------------FIM MENU, COMEÇO CORPO*/
+
+#funbranco{
+	margin-top: 70px;
+	background-color: white;
+	height: 800px;
+}
+.mapa{
+  max-width: 70%;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  border: 10px #ffffb3;
+}
+.botao{
+	background-color:#ffff80;
+	border-color: #ffff80;
+	color: white;
+}
+
+
+
+/*-----------------------------------------------FiM CORPO, COMEĆ‡O RODAPĆ‰--------*/
+footer{
+ background-color:#ffcccc;
+ border-color:#ffcccc;
+ border-radius: 7px;
+ padding: 10px 0px 10px 0px;
+ position: static;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ color: white;
+ text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Verdana, Arial;
+	font-style: italic;
+	color: #ff1a75;
+}
+
+.cadastre{
+	font-family: Verdana, Arial;
+	font-size: 20px;
+	color: #80002a;
+}
+.botao{
+	color: black;
+}
+.botao:hover{
+	background: white;
+	color: black;
+}
+.insta{
+	width: 60px;
+	height: 60px;
+	margin-left: 50px;
+}
+.face{
+	width: 60px;
+	height: 60px;
+	margin-left: 50px;
+}
+.wpp{
+	width: 60px;
+	height: 60px;
+	margin-left: 50px;
+}
+#emailsenha{
+	color: #80002a;
+}
+
+.contatos{
+	color: #ff1a75;
+	font-size:30px;
+	font-family: Verdana, Arial;
+	font-style: italic;
+}
